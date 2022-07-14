@@ -1,21 +1,21 @@
-@import url("reset.css");
+@import url("./reset.css");
 
 @import url("./body.css");
 @import url("./header.css");
 @import url("./menu.css");
 @import url("./rodape.css");
-@import url("botoes.css");
-@import url("cards.css");
-@import url("categorias.css");
-@import url("mensagem.css");
+@import url("./botoes.css");
+@import url("./cards.css");
+@import url("./categorias.css");
+@import url("./mensagem.css");
 
-@import url("./_formularios-externos.css");
-@import url("./_formularios-internos.css");
+@import url("./formularios-externos.css");
+@import url("./formularios-internos.css");
 
-@import url("inicial.css");
-@import url("cadastro-login.css");
-@import url("home.css");
-@import url("perfil.css");
+@import url("./inicial.css");
+@import url("./cadastro-login.css");
+@import url("./home.css");
+@import url("./perfil.css");
 
 :root {
 	--cor-principal: #3772FF;		/* azul */
