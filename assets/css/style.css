@@ -1,9 +1,9 @@
 @import url("reset.css");
 
-@import url("body.css");
-@import url("header.css");
-@import url("menu.css");
-@import url("rodape.css");
+@import url("./body.css");
+@import url("./header.css");
+@import url("./menu.css");
+@import url("./rodape.css");
 @import url("botoes.css");
 @import url("cards.css");
 @import url("categorias.css");
